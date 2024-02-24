@@ -4,7 +4,7 @@ import { theme } from "../../theme";
 
 export const styles = StyleSheet.create({
     pressable: {
-
+        paddingBottom: 6,
     },
     text: {
         color: theme.colors.white,
